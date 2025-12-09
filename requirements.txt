@@ -1,0 +1,15 @@
+# Dépendances du projet Agent Agentique vs Assistant Virtuel
+# Note: Ce projet utilise principalement la bibliothèque standard Python 3.10+
+
+# Pour l'intégration avec de vrais LLMs (optionnel)
+# anthropic>=0.18.0    # Pour Claude API
+# openai>=1.0.0        # Pour GPT API
+
+# Pour une implémentation production
+# pydantic>=2.0.0      # Validation des données
+# httpx>=0.25.0        # Client HTTP async
+# python-dotenv>=1.0.0 # Variables d'environnement
+
+# Pour les tests
+# pytest>=7.0.0
+# pytest-asyncio>=0.21.0
