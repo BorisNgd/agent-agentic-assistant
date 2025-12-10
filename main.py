@@ -16,7 +16,6 @@ from src.assistant_virtuel.assistant import VirtualAssistant
 from src.agent_agentique.agent import AgenticAgent, AgentContext
 from src.multi_agents.orchestrator import Orchestrator, OrchestratorContext
 
- 
 # Scénario de démonstration par défaut
 DEFAULT_SCENARIO = (
     "Je dois m'absenter demain pour une urgence familiale. "
